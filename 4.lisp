@@ -1,0 +1,5 @@
+(define x1 5)
+(define x2 3)
+(define x3 67)
+(define x4 56)
+(max x1 x2 x3 x4)
